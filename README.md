@@ -9,7 +9,7 @@ https://covid-19-data-visualizer-4zyg.onrender.com/index.html
 ---
 
 ## 👨‍💻 Author  
-**Nunna Sri Abhinaya**
+**Kovvuri Aksha**
 
 ---
 
